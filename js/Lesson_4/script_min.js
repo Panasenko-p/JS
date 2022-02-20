@@ -6,7 +6,7 @@
 // function getargum( ){
 //     console.log(arguments.length);
 // };
-// getargum (516,'sf',54165,16516,'sdfs',);
+// getargum(516,'sf',54165,16516,'sdfs',);
 
 // let namber_1 = +prompt('Введіть перше число');
 // let namber_2 = +prompt('Введіть друге число')
@@ -20,7 +20,7 @@
 //         console.log(0);
 //         };
 // }
-// checknamber (namber_1,namber_2) ;
+// checknamber(namber_1,namber_2) ;
 
 
 
