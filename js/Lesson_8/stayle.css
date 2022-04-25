@@ -1,0 +1,25 @@
+.col1 {
+    border: 1px solid red;
+    width: 40%;
+}
+.table {
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.title1 {
+    width: 100%;
+    text-align: center;
+}
+.text {
+    width: 100%;
+    text-align: center;
+}
+.col2 {
+    border: 1px solid red;
+    width: 40%;
+}
+.title2 {
+    width: 100%;
+    text-align: center;
+}

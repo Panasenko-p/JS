@@ -1,0 +1,26 @@
+
+.tab_list {
+    display: flex;
+    list-style-type: none;
+}
+li {
+    margin-top: 50px;
+    
+    width: 100px;
+    cursor: pointer;
+}
+.active {
+    background: green;
+}
+.tab_content {
+    display: none;
+}
+.active_text {
+    display: block;
+}
+
+
+
+
+
+
